@@ -30,6 +30,10 @@ function load() {
   }
 
 load();
+<<<<<<< HEAD
 function teste2(){
   console.log(teste2)
   
+=======
+funtion teste(){
+>>>>>>> teste
